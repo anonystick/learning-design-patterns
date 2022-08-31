@@ -10,7 +10,7 @@ Chapter1: [Design patterns là gì? Từ cuộc sống đến lập trình và c
 
 # Download books
 
-1- [Book limited GoF](https://drive.google.com/file/d/12Yh0XQU9mLgi-kyJQGbATIqBd2FRBvwG/view?usp=sharing)
+Book1: [Book limited GoF](https://drive.google.com/file/d/12Yh0XQU9mLgi-kyJQGbATIqBd2FRBvwG/view?usp=sharing)
 
 
 
