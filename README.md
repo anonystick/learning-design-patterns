@@ -10,6 +10,8 @@ Chapter1: [Design patterns là gì? Từ cuộc sống đến lập trình và c
 
 Chapter2: [Đến ngày Black friday tôi đã sử dụng Stratery Pattern js hiệu quả như thế nào? Ecommerce Aliconcon - Series Design Pattern](https://anonystick.com/blog-developer/den-ngay-black-friday-toi-da-su-dung-stratery-parttern-js-hieu-qua-nhu-the-nao-ecommerce-aliconcon-series-design-pattern-202208277030899)
 
+Chapter3: [Observer Pattern được sử dụng triển khai news feed trong facebook và cách triển khai DOTA 2 vs IP 14](https://youtu.be/7J5pRc2vzWk)
+
 # Download books
 
 Book1: [Book limited GoF](https://drive.google.com/file/d/12Yh0XQU9mLgi-kyJQGbATIqBd2FRBvwG/view?usp=sharing)
