@@ -12,6 +12,10 @@ Chapter2: [Đến ngày Black friday tôi đã sử dụng Stratery Pattern js h
 
 Chapter3: [Observer Pattern được sử dụng triển khai news feed trong facebook và cách triển khai DOTA 2 vs IP 14](https://youtu.be/7J5pRc2vzWk)
 
+Chapter4: [Push or Pull ngăn xếp công nghệ nào được FACEBOOK và INSTAGRAM lựa chọn phát triển NEWS FEED?](https://youtu.be/qu3Lc2evkTw)
+
+Chapter5: [Facade pattern | Mức độ khó (★☆☆☆☆) | Mức độ phổ biến (★★★★★)](https://youtu.be/zK_sNkfzugs)
+
 # Download books
 
 Book1: [Book limited GoF](https://drive.google.com/file/d/12Yh0XQU9mLgi-kyJQGbATIqBd2FRBvwG/view?usp=sharing)
