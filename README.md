@@ -16,6 +16,8 @@ Chapter4: [Push or Pull ngăn xếp công nghệ nào được FACEBOOK và INST
 
 Chapter5: [Facade pattern | Mức độ khó (★☆☆☆☆) | Mức độ phổ biến (★★★★★)](https://youtu.be/zK_sNkfzugs)
 
+Chapter6: [Proxy Pattern](https://youtu.be/Z3mPTWuFw00)
+
 # Download books
 
 Book1: [Book limited GoF](https://drive.google.com/file/d/12Yh0XQU9mLgi-kyJQGbATIqBd2FRBvwG/view?usp=sharing)
