@@ -18,6 +18,10 @@ Chapter5: [Facade pattern | Mức độ khó (★☆☆☆☆) | Mức độ ph�
 
 Chapter6: [Proxy Pattern](https://youtu.be/Z3mPTWuFw00)
 
+Chapter 7: [Simple Factory Pattern](https://youtu.be/O6TsDdKtyz0)
+
+Chapter 8: [Factory Method Pattern](https://youtu.be/54-rJHUM2L8)
+
 # Download books
 
 Book1: [Book limited GoF](https://drive.google.com/file/d/12Yh0XQU9mLgi-kyJQGbATIqBd2FRBvwG/view?usp=sharing)
