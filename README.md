@@ -22,6 +22,8 @@ Chapter 7: [Simple Factory Pattern](https://youtu.be/O6TsDdKtyz0)
 
 Chapter 8: [Factory Method Pattern](https://youtu.be/54-rJHUM2L8)
 
+Chapter 9: [Prototype Pattern](https://youtu.be/Wn2Bwi4qHl0)
+
 # Download books
 
 Book1: [Book limited GoF](https://drive.google.com/file/d/12Yh0XQU9mLgi-kyJQGbATIqBd2FRBvwG/view?usp=sharing)
