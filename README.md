@@ -26,6 +26,10 @@ Chapter 9: [Singleton pattern | Mức độ khó (★☆☆☆☆) | Mức độ
 
 Chapter 10: [Prototype Pattern | Mức độ khó (★★★☆☆) | Mức độ phổ biến (★★★☆☆)](https://youtu.be/Wn2Bwi4qHl0)
 
+Chapter 11: [Builder Pattern | Mức độ khó (★★★★☆) | Mức độ phổ biến (★★☆☆☆)](https://youtu.be/j-oCmwWggjY)
+
+Chapter 12: [Adapter Pattern | Mức độ khó (★★☆☆☆) | Mức độ phổ biến (★★★★☆)](https://youtu.be/cUNoGD7sR-g)
+
 # Download books
 
 Book1: [Book limited GoF](https://drive.google.com/file/d/12Yh0XQU9mLgi-kyJQGbATIqBd2FRBvwG/view?usp=sharing)
